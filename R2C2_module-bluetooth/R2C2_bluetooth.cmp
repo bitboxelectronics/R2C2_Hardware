@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by CvPcb (2011-oct-15)-testing date = Qui 03 Nov 2011 09:09:27 WET
+
+BeginCmp
+TimeStamp = /4EB25988;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB25A02;
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB0818E;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB082EE;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E9ED778;
+Reference = P1;
+ValeurCmp = J20;
+IdModule  = PIN_ARRAY_15x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E9EDA43;
+Reference = P2;
+ValeurCmp = J18;
+IdModule  = PIN_ARRAY_15x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB24820;
+Reference = P3;
+ValeurCmp = BLUETOOTH_MODULE;
+IdModule  = Bluetooth_UART_module;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB2483A;
+Reference = P4;
+ValeurCmp = BLUETOOTH_MODULE;
+IdModule  = Bluetooth_UART_module;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB08183;
+Reference = R1;
+ValeurCmp = 470;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB082EF;
+Reference = R2;
+ValeurCmp = 470;
+IdModule  = SM0805;
+EndCmp
+
+EndListe
